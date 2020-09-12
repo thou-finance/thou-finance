@@ -2,7 +2,7 @@
 
 Website : https://thou.finance
 
-Telegram : https://t.me/thou_finance
+Telegram : https://t.me/thoufinance
 
 Discord : https://discord.gg/Yd8Hzg4
 
